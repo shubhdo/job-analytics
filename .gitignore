@@ -1,0 +1,7 @@
+node_modules
+front-end\job-list-app\node_modules
+api-getway\node_modules
+services\job-service\node_modules
+services\user-service\node_modules
+shared\logger\node_modules
+shared\utils\node_modules

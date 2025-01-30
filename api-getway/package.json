@@ -1,0 +1,21 @@
+{
+  "name": "api-getway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:server": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "http-proxy-middleware": "^3.0.3"
+  },
+  "devDependencies": {
+    "dotenv-cli": "^8.0.0"
+  }
+}
